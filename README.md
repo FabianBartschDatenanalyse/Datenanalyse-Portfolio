@@ -8,6 +8,6 @@ Ich bin Marktforscher mit einem Schwerpunkt auf quantitativer Datenanalyse und e
 
 ## <a href="https://github.com/FabianBartschDatenanalyse/SBB-Passagierzahlen-Puenktlichkeit.git">Projekt SBB Visualisierung Passagierzahlen und Pünktlichkeit</a>
 
-In diesem Projekt habe ich die Passagierzahlen und die Pünktlichkeit aller SBB-Züge eines Tages visuell in Power BI dargestellt. Das Dashboard ermöglicht es, die Zusammenhänge zwischen den Passagierzahlen und der Pünktlichkeit der Züge zu analysieren. 
+In diesem Projekt habe ich die Passagierzahlen und die Pünktlichkeit der SBB-Züge von fünf Bahnhöfen (Bern, Basel, Zürich HB, Genf und Olten) für den 27.3.2025 visuell in Power BI dargestellt. Das Dashboard ermöglicht es, die Zusammenhänge zwischen den Passagierzahlen und der Pünktlichkeit der Züge zu analysieren. 
 
 
