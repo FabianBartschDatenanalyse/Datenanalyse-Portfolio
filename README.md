@@ -4,11 +4,15 @@ Willkommen zu meinem persönlichen Datenanalyse-Portfolio. Hier finden Sie versc
 
 ## Über mich
 
-Ich bin Marktforscher mit einem Schwerpunkt auf quantitativer Datenanalyse und einem starken Interesse an Data Science. Ich verfüge über Erfahrungen in der Projektleitung, statistischer Datenanalyse und Datenvisualisierung. Ausserdem bin ich sicher im Umgang mit SPSS, Excel (VBA), PowerPoint und Power BI. Meine Leidenschaft liegt in der Analyse komplexer Datenstrukturen und der Vermittlung ihrer zugrunde liegenden Story durch aussagekräftige visuelle Darstellungen.
+Ich bin Datenanalyst und Marktforscher mit Schwerpunkt auf quantitativer Datenanalyse, Business-Intelligence-Lösungen und SQL-basierter Datenmodellierung. Mein Fokus liegt auf dem Aufbau automatisierter Controlling- und Reporting-Dashboards in Power BI, die manuelle Prozesse ablösen und datengetriebene Entscheidungen nachhaltig unterstützen.
+
+Darüber hinaus bringe ich fundierte Statistik-Expertise aus der Marktforschung sowie Erfahrung in der Projektleitung, Datenvisualisierung und Storytelling mit Daten mit. Meine Leidenschaft liegt darin, aus Daten klare Erkenntnisse zu gewinnen und diese verständlich und wirkungsvoll zu kommunizieren.
+
 
 ## Reporting-Automatisierung anhand von fiktiven Spitalzahlen
 
 Das Hauptziel dieses Projekts ist die Analyse der durchschnittlichen Verweildauer von Patienten über verschiedene Zeiträume, Fachabteilungen und Ärzte hinweg. Durch den Einsatz von Power Query wird ein Prozess etabliert, der neue Datensätze (z. B. für das Jahr 2025) automatisch erkennt und in das bestehende Reporting integriert.
+
 
 ## <a href="https://github.com/FabianBartschDatenanalyse/SBB-Passagierzahlen-Puenktlichkeit.git">Projekt SBB Visualisierung Passagierzahlen und Pünktlichkeit</a>
 
