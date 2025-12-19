@@ -9,7 +9,7 @@ Ich bin Datenanalyst und Marktforscher mit Schwerpunkt auf quantitativer Datenan
 Darüber hinaus bringe ich fundierte Statistik-Expertise aus der Marktforschung sowie Erfahrung in der Projektleitung, Datenvisualisierung und Storytelling mit Daten mit. Meine Leidenschaft liegt darin, aus Daten klare Erkenntnisse zu gewinnen und diese verständlich und wirkungsvoll zu kommunizieren.
 
 
-## Reporting-Automatisierung anhand von fiktiven Spitalzahlen
+## <a href="https://github.com/FabianBartschDatenanalyse/Reporting-Automatisierung-KIS-Daten.git">Reporting-Automatisierung anhand von fiktiven Spitalzahlen
 
 Das Hauptziel dieses Projekts ist die Analyse der durchschnittlichen Verweildauer von Patienten über verschiedene Zeiträume, Fachabteilungen und Ärzte hinweg. Durch den Einsatz von Power Query wird ein Prozess etabliert, der neue Datensätze (z. B. für das Jahr 2025) automatisch erkennt und in das bestehende Reporting integriert.
 
