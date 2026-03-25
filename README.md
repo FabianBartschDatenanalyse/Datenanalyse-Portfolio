@@ -9,6 +9,22 @@ Ich bin Datenanalyst und Marktforscher mit Schwerpunkt auf quantitativer Datenan
 Darüber hinaus bringe ich fundierte Statistik-Expertise aus der Marktforschung sowie Erfahrung in der Projektleitung, Datenvisualisierung und Storytelling mit Daten mit. Meine Leidenschaft liegt darin, aus Daten klare Erkenntnisse zu gewinnen und diese verständlich und wirkungsvoll zu kommunizieren.
 
 
+## <a href="https://github.com/FabianBartschDatenanalyse/AI-Wealth-Market-Research-PowerBI.git">AI Wealth Market Research – End-to-End Analytics & Power BI Reporting</a>
+
+In diesem Projekt analysiere ich die Präferenzen und Akzeptanz gegenüber KI-gestützten Vermögensverwaltungsmodellen (menschlich, hybrid, automatisiert).
+
+Der gesamte Prozess wird abgebildet – von der Fragebogenentwicklung über die Datenaufbereitung und Conjoint-Analyse bis hin zur Erstellung eines entscheidungsrelevanten Power BI Reports.
+
+Der Fokus liegt auf:
+
+- Strukturierter Marktforschung und Fragebogendesign
+- Datenpipeline, Segmentierung und Gewichtung
+- Conjoint- und Treiberanalysen
+- Entwicklung eines Executive-Dashboards in Power BI
+
+Ziel ist es, datenbasierte Handlungsempfehlungen für die Gestaltung von AI-basierten Wealth-Management-Angeboten abzuleiten.
+
+
 ## <a href="https://github.com/FabianBartschDatenanalyse/Reporting-Automatisierung-KIS-Daten.git">Reporting-Automatisierung anhand von fiktiven Spitalzahlen
 
 Das Hauptziel dieses Projekts ist die Analyse der durchschnittlichen Verweildauer von Patienten über verschiedene Zeiträume, Fachabteilungen und Ärzte hinweg. Durch den Einsatz von Power Query wird ein Prozess etabliert, der neue Datensätze (z. B. für das Jahr 2025) automatisch erkennt und in das bestehende Reporting integriert.
@@ -17,5 +33,3 @@ Das Hauptziel dieses Projekts ist die Analyse der durchschnittlichen Verweildaue
 ## <a href="https://github.com/FabianBartschDatenanalyse/SBB-Passagierzahlen-Puenktlichkeit.git">Projekt SBB Visualisierung Passagierzahlen und Pünktlichkeit</a>
 
 In diesem Projekt habe ich die Passagierzahlen und die Pünktlichkeit der SBB-Züge von fünf Bahnhöfen (Bern, Basel, Zürich HB, Genf und Olten) für den 27.3.2025 visuell in Power BI dargestellt. Das Dashboard ermöglicht es, die Zusammenhänge zwischen den Passagierzahlen und der Pünktlichkeit der Züge zu analysieren. Die Aufbereitung erfolgt in Python.
-
-
