@@ -8,6 +8,13 @@ Ich bin Datenanalyst und Marktforscher mit Schwerpunkt auf quantitativer Datenan
 
 Darüber hinaus bringe ich fundierte Statistik-Expertise aus der Marktforschung sowie Erfahrung in der Projektleitung, Datenvisualisierung und Storytelling mit Daten mit. Meine Leidenschaft liegt darin, aus Daten klare Erkenntnisse zu gewinnen und diese verständlich und wirkungsvoll zu kommunizieren.
 
+## <a href="https://github.com/FabianBartschDatenanalyse/Marktforschungsprojekt_Neobanken.git">Revolut Brand & Image Study</a>
+
+In diesem fiktiven Marktforschungsprojekt analysiere ich Revolut im Vergleich zu weiteren Neobanken im DACH-Raum. Das Projekt umfasst den gesamten Workflow von der Fragebogenentwicklung über die Aufbereitung synthetischer Umfragedaten bis hin zur Auswertung mit PSPP/SPSS und der Aufbereitung eines managementtauglichen PowerPoint-Berichts.
+
+Tools: PSPP / SPSS, Excel, PowerPoint
+Fokus: Marktforschung, Fragebogendesign, Datenaufbereitung, Crosstabs, Reporting
+
 
 ## <a href="https://github.com/FabianBartschDatenanalyse/AI-Wealth-Market-Research-PowerBI.git">AI Wealth Market Research – End-to-End Analytics & Power BI Reporting</a>
 
